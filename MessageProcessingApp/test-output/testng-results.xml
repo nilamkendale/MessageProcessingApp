@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="389" started-at="2018-10-29T12:01:14Z" finished-at="2018-10-29T12:01:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="389" started-at="2018-10-29T12:01:14Z" finished-at="2018-10-29T12:01:14Z">
+      <class name="testng.TestApp">
+        <test-method status="PASS" signature="testAmountForProductFail()[pri:0, instance:testng.TestApp@13f2bb1]" name="testAmountForProductFail" duration-ms="24" started-at="2018-10-29T12:01:14Z" finished-at="2018-10-29T12:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmountForProductFail -->
+        <test-method status="PASS" signature="testAmountForProductPass()[pri:0, instance:testng.TestApp@13f2bb1]" name="testAmountForProductPass" duration-ms="4" started-at="2018-10-29T12:01:14Z" finished-at="2018-10-29T12:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmountForProductPass -->
+        <test-method status="PASS" signature="testCurrencyFormatter()[pri:0, instance:testng.TestApp@13f2bb1]" name="testCurrencyFormatter" duration-ms="16" started-at="2018-10-29T12:01:14Z" finished-at="2018-10-29T12:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCurrencyFormatter -->
+        <test-method status="PASS" signature="testListOfMessages()[pri:0, instance:testng.TestApp@13f2bb1]" name="testListOfMessages" duration-ms="3" started-at="2018-10-29T12:01:14Z" finished-at="2018-10-29T12:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testListOfMessages -->
+        <test-method status="PASS" signature="testProcessngFail()[pri:0, instance:testng.TestApp@13f2bb1]" name="testProcessngFail" duration-ms="76" started-at="2018-10-29T12:01:14Z" finished-at="2018-10-29T12:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProcessngFail -->
+        <test-method status="PASS" signature="testProcessngPass()[pri:0, instance:testng.TestApp@13f2bb1]" name="testProcessngPass" duration-ms="146" started-at="2018-10-29T12:01:14Z" finished-at="2018-10-29T12:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProcessngPass -->
+        <test-method status="PASS" signature="testQuantity()[pri:0, instance:testng.TestApp@13f2bb1]" name="testQuantity" duration-ms="2" started-at="2018-10-29T12:01:14Z" finished-at="2018-10-29T12:01:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testQuantity -->
+      </class> <!-- testng.TestApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

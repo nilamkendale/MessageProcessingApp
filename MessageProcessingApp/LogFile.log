@@ -1,0 +1,152 @@
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   1 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   2 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   3 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   4 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   5 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   6 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   7 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   8 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   9 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   10 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Total 10 Messsages received---
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: Report :: 
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO:  Item : Apple |||| Number of Sale : 80 |||| Value : £8.60
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO:  Item : Mango |||| Number of Sale : 3 |||| Value : £0.90
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: ::::::Getting next block of messages ::::::
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   1 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   2 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   3 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   4 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   5 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   6 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   7 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   8 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   9 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   10 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Total 20 Messsages received---
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: Report :: 
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO:  Item : Apple |||| Number of Sale : 140 |||| Value : £15.20
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO:  Item : Mango |||| Number of Sale : 7 |||| Value : £2.10
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: ::::::Getting next block of messages ::::::
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   1 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   2 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   3 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   4 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   5 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   6 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   7 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   8 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   9 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   10 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Total 30 Messsages received---
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: Report :: 
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO:  Item : Apple |||| Number of Sale : 200 |||| Value : £22.00
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO:  Item : Mango |||| Number of Sale : 10 |||| Value : £3.00
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: ::::::Getting next block of messages ::::::
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   1 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   2 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   3 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   4 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   5 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   6 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   7 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   8 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   9 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   10 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Total 40 Messsages received---
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: Report :: 
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO:  Item : Apple |||| Number of Sale : 280 |||| Value : £30.60
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO:  Item : Mango |||| Number of Sale : 13 |||| Value : £3.90
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: ::::::Getting next block of messages ::::::
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   1 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   2 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   3 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   4 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   5 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   6 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   7 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   8 : Add 20p Apples
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   9 : 20 sales of Apples at 10p each
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Message   10 : Mango at 30p
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing messagesProcessing
+INFO: Total 50 Messsages received---
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: Report :: 
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO:  Item : Apple |||| Number of Sale : 340 |||| Value : £37.20
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO:  Item : Mango |||| Number of Sale : 17 |||| Value : £5.10
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: ::::::Getting next block of messages ::::::
+Oct 29, 2018 12:02:00 PM messageprocessing.SalesProcessing printReportToLogFile
+INFO: It reaches to the maximum 50 message capacity.. couldn't accept more message ........
