@@ -49,14 +49,14 @@ TestNG ::--->
 
 Different Approach :--->
 -----------------------------------------------------------------------------------------------------------------------------------
-We can develop same application with File reading approach but I choose to develop it with different stlye.
-In File Reading approach, will need to create 1 file with all messages and one by one we can read and do process.
+> We can develop same application with File reading approach but I choose to develop it with different stlye.
+> In File Reading approach, will need to create 1 file with all messages and one by one we can read and do process.
  
 =====================================================================================================================================
 
 How to Run --->
-You need Eclipse or any IDE and Java 7 and checkout the code and have to run MessageProcessingMain file.
-Emailable report shows you how many testcases passed and failed 
-Note: Make sure you have file path ready which is in Logger file to create Log File.
+> You need Eclipse or any IDE and Java 7 and checkout the code and have to run MessageProcessingMain file.
+> Emailable report shows you how many testcases passed and failed 
+> Note: Make sure you have file path ready which is in Logger file to create Log File.
 
 
